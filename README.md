@@ -2,15 +2,14 @@
 
 Welcome to my **Natural Language Understanding** project! This repository contains a deep learning model capable of generating human-like news summaries using an LSTM architecture.
 
-[Hugg<img width="1915" height="800" alt="Screenshot 2026-01-30 at 6 19 11 pm" src="https://github.com/user-attachments/assets/77f2d196-d02b-42af-8bda-38328302ffd1" />
-ing Face: CNN/DailyMail](https://huggingface.co/datasets/abisee/cnn_dailymail)
+<img width="1915" height="800" alt="Screenshot 2026-01-30 at 6 19 11 pm" src="https://github.com/user-attachments/assets/77f2d196-d02b-42af-8bda-38328302ffd1" />
 
 ---
 
 ## 📚 Task 1: Dataset Acquisition
 We used the **CNN/DailyMail (Version 2.0.0)** dataset, a staple in the NLP world for summarization and language modeling.
 
-* **Source:** 📰 
+* **Source:** 📰 [Hugging Face: CNN/DailyMail](https://huggingface.co/datasets/abisee/cnn_dailymail)
 * **Size:** Filtered to **10,000 samples** for efficient training.
 * **Credit:** Huge thanks to **Abigail See et al.** for their work on *Pointer-Generator Networks* which popularized this dataset.
 
